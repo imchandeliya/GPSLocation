@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GPS Location</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="address">Address</string>
+    <string name="use_location">Use_Location</string>
+    <string name="use_address">Use_Address</string>
+    <string name="fetch">Fetch</string>
+</resources>
